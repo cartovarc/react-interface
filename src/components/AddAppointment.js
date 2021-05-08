@@ -20,7 +20,6 @@ const AddAppointment = ({ onSendAppointment, lastId }) => {
             aptDate: formData.aptDate + " " + formData.aptTime,
             aptNotes: formData.aptNotes
         }
-        console.log(onSendAppointment);
         onSendAppointment(appointmentInfo);
         setFormData(clearData);
         setToggleForm(false);
