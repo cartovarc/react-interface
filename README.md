@@ -15,9 +15,9 @@
 </tr>
 </table>
 
-This project was the result of follwing this course with [React.js Building an Interface](https://www.linkedin.com/learning/react-js-building-an-interface-8551484).
+This project was the result of following this course with [React.js Building an Interface](https://www.linkedin.com/learning/react-js-building-an-interface-8551484).
 
-### Run
+### Running locally
 
 ```bash
 yarn install
